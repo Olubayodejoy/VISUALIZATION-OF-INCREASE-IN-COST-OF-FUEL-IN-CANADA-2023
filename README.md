@@ -4,6 +4,8 @@ visualization carried out on the increasing price of fuel in Canada in 2024
 ![Alt text]([URL_of_your_image](https://github.com/Olubayodejoy/VISUALIZATION-OF-INCREASE-IN-COST-OF-FUEL-IN-CANADA-2023/blob/main/picture1.PNG?raw=true
 ))
 
+![INCREASE-IN-COST-OF-FUEL](https://github.com/Olubayodejoy/VISUALIZATION-OF-INCREASE-IN-COST-OF-FUEL-IN-CANADA-2023/blob/main/picture1.PNG?raw=true)
+
 The chart above illustrates the monthly petrol prices in Canada for the year 2023. It shows a fluctuating trend in prices throughout the year, highlighting key changes that may affect consumers and the economy.
 
 Key Insights:
